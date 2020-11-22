@@ -1,3 +1,9 @@
+##
+## EPITECH PROJECT, 2020
+## Makefile
+## File description:
+## Little makefile-gen ©Mia
+##
 #! /usr/bin/env ruby
 require 'optparse'
 require 'ostruct'
