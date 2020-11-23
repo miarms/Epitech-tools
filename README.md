@@ -1,6 +1,11 @@
-# makefile-gen
-makefile-gen est un générateur de makefile développé en ruby.
-Il vous aidera en générant vos Makefiles de base C / C ++.
+                  ################
+                  # Epitech-tools#
+                  ################
+
+Makefile :
+
+  makefile-gen est un générateur de makefile développé en ruby.
+  Il vous aidera en générant vos Makefiles de base C / C ++.
 
 Déplacer le fichier dans votre projet : 
 $mv [source] [destination]
